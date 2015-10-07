@@ -1,0 +1,30 @@
+{
+  "name": "moth",
+  "version": "0.0.0",
+  "description": "Extended error class for handling basic error catching capabilities.",
+  "main": "moth.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/volkovasystems/moth.git"
+  },
+  "keywords": [
+    "moth",
+    "error",
+    "extended-error",
+    "long-stack-trace"
+  ],
+  "author": "Richeve S. Bebedor <richeve.bebedor@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/volkovasystems/moth/issues"
+  },
+  "homepage": "https://github.com/volkovasystems/moth#readme",
+  "dependencies": {
+    "harden": "^0.2.0",
+    "heredito": "^0.2.0",
+    "lodash": "^3.10.1"
+  }
+}
